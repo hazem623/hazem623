@@ -58,7 +58,7 @@
 
 ## 🧾 Certifications
 
-- ✅ Git & GitHub Basics (ALX)  
+- ✅ Git & GitHub Basics
 - ✅ HTML & CSS (Elzero Web School)  
 - ✅ Soft Skills: Leadership & Problem Solving (ALX)
 
