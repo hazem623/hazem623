@@ -14,18 +14,17 @@
 </div>
 
 ---
-
 ## 🧠 About Me
 
-```js
-const Hazem = {
-  name: "Hazem Abdelghany",
-  role: "Frontend Developer",
-  learning: ["JavaScript", "Responsive Design", "Git & GitHub"],
-  goal: "To master web development and build impactful digital products",
-  motivation: "Uplifting my family name, growing with every single line of code",
-}
-```
+| 🧾 Information      | 📌 Details |
+|---------------------|------------|
+| **👤 Name**         | Hazem Abdelghany |
+| **💻 Role**         | Frontend Developer (In Progress) |
+| **🎯 Focus Areas**  | JavaScript, Git, Responsive Design |
+| **📚 Currently Learning** | ALX Program, Elzero Web School |
+| **🚀 Goal**         | Build impactful web projects, master frontend dev |
+| **🧠 Motivation**   | Support my family, honor my name, grow with every line of code |
+| **🎮 Fun Fact**     | Every bug I fix feels like winning a boss fight 😎 |
 
 ---
 
@@ -106,10 +105,6 @@ const Hazem = {
 ---
 
 ## 🐍 Contribution Snake Graph
-
-<p align="center">
-  <img src="https://github.com/hazem623/hazem623/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Every+line+of+code+is+a+step+closer+to+the+dream.;My+goal+is+to+grow,+build,+and+inspire.🔥" />
